@@ -6,29 +6,30 @@
 
 ## Bitcoin Cash.
 
+## Currency
+
 ## Ether.
 
 ## Ethereum
 
-## Solidity
+## Fungibile/Fungibility
+
+## Ledger
 
 ## Gas
 
 ## Hash Function
 
-## Proof of Work
-
-## Fungibile/Fungibility
-
-## Currency
-
-## Smart Contracts
+## Immutable/Immutability
 
 ## Decentralised Architecture
 
 ## Distributed Architecture
 
-## Immutable/Immutability
+## Proof of Work
 
+## Solidity
 
+## Single Source of Truth
 
+## Smart Contracts
