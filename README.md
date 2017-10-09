@@ -10,13 +10,13 @@ We are less/not interested in cryptocurrency as a form of investment opportunity
 
 Our method will be exploratory - making sense of the technology - getting in and playing with Ethereum and Solidity as a means of immersing oursleves in the possibilities and dynamics of the Blockchain technology.
 
-Proposed workshop plan (open to change).
+[Proposed workshop plan (open to change).](workshopoutline.md)
 
 [Working glossary of terms/understanding ](/glossary.md)
 
-[Blockchain resources and research]()
+[Blockchain resources and research](/resources.md)
 
-[Blockchain software and tools.] ()
+[Blockchain software and tools.] (/softwaretools.md)
 
 [Compilation of Interesting Blackchain Projects](/blockchainprojects.md)
 
