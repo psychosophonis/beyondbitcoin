@@ -16,7 +16,7 @@ Our method will be exploratory - making sense of the technology - getting in and
 
 [Blockchain resources and research](/resources.md)
 
-[Blockchain software and tools.] (/softwaretools.md)
+[Blockchain software and tools](/softwaretools.md)
 
 [Compilation of Interesting Blackchain Projects](/blockchainprojects.md)
 
