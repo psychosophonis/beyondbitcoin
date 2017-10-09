@@ -18,7 +18,7 @@ Our method will be exploratory - making sense of the technology - getting in and
 
 [Blockchain software and tools](/softwaretools.md)
 
-[Compilation of Interesting Blackchain Projects](/blockchainprojects.md)
+[Compilation of Interesting Blockchain Projects](/blockchainprojects.md)
 
 [Contribute a diagram of the Blockchain or a blockchain project](/diagramblockchain.md)
 
