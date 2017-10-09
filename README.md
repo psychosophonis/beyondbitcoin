@@ -9,3 +9,7 @@ Part of what motivates Polygon Door's interest in the technology is the potentia
 We are less/not interested in cryptocurrency as a form of investment opportunity - alhtough our lack interest shouldn't preclude yours - and are not so interested in the economic value of a particular coin and much more interested in exploring how the technology might be 'hacked' to creative or organisational ends. I suppose you could say we are more interested in the 'cryto-anarchist' roots and vector of the technology - although that too is inseperable from the use of the blockchain in the realisation of 'fungible' currency.
 
 Our method will be exploratory - making sense of the technology - getting in and playing with Ethereum and Solidity as a means of immersing oursleves in the possibilities and dynamics of the Blockchain technology.
+
+[Working glossary of terms/understanding ](beyondbitcoin/glossary.md)
+
+[Compilation of Interesting Blackchain Projects](beyondbitcoin/blockchainprojects.md)
