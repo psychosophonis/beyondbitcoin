@@ -3,6 +3,11 @@
 ## Blockchain.
 Name given to technology where all transactions are logged to a distributed ledger.
 
+## Block Time
+
+The amount of time between the adding of the next block to the last on a blockchain.
+In 2017 Ethereum's blocktime is avergaing at about 18s. Bitcoin is more like 9 minutes.
+
 ## Bitcoin.
 
 A contract or program that runs on a blockchain (see above) to allow the exchange of value.
