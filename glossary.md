@@ -9,6 +9,7 @@ A contract or program that runs on a blockchain (see above) to allow the exchang
 
 ## Bitcoin Cash.
 
+One side of a hard fork in the blockchain code split into two versions. 
 [Bitcoin Cash? A Basic Beginners Guide - Blockgeek](https://blockgeeks.com/guides/what-is-bitcoin-cash/)
 
 ## Cryptocurrency
