@@ -48,3 +48,6 @@ One side of a hard fork in the blockchain code split into two versions.
 
 ## Smart Contracts
 
+## Uncle
+
+Blocks that were very close to being the next block in the chain but weren't. On the ethereum blockchain the mining of these also-rans are rewarded.
