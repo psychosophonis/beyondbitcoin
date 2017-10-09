@@ -6,6 +6,8 @@
 
 ## Bitcoin Cash.
 
+## Cryptocurrency
+
 ## Currency
 
 ## Ether.
