@@ -1,9 +1,11 @@
 # A Glossary of Essential/Found Cryptocurrency Terms.
 
 ## Blockchain.
-A technology where all transactions are logged to a distributed ledger.
+Name given to technology where all transactions are logged to a distributed ledger.
 
 ## Bitcoin.
+
+A contract or program that runs on a blockchain (see above) to allow the exchange of value.
 
 ## Bitcoin Cash.
 
