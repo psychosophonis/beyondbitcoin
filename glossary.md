@@ -16,11 +16,15 @@
 
 ## Ledger
 
+## Geth
+
 ## Gas
 
 ## Hash Function
 
 ## Immutable/Immutability
+
+## Mining
 
 ## Decentralised Architecture
 
@@ -33,3 +37,4 @@
 ## Single Source of Truth
 
 ## Smart Contracts
+
