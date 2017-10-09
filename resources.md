@@ -20,6 +20,8 @@ A fascinating collection of all Satoshi Nakamoto's correspondance on the cryptog
 
 The original technical 'how to' with the first chapters inlcuding good general explainers. (on Github - free)
 
+Great youtube video explaining blockchain https://youtu.be/baJYhYsHkLM
+
 
 ## Technical Resources/Tutorials
 
@@ -28,6 +30,8 @@ The original technical 'how to' with the first chapters inlcuding good general e
 - [ethereum.org](ethereum.org)
 
 The best source for basic starts in Ethereum matters - Solidity, Geth, Ethereum Wallet etc. etc.
+
+
 
 
 
