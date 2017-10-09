@@ -9,7 +9,7 @@ A contract or program that runs on a blockchain (see above) to allow the exchang
 
 ## Bitcoin Cash.
 
-A 
+[Bitcoin Cash? A Basic Beginners Guide - Blockgeek](https://blockgeeks.com/guides/what-is-bitcoin-cash/)
 
 ## Cryptocurrency
 
