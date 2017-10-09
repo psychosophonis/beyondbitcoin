@@ -59,6 +59,8 @@ The blockchain is immutable - once a transaction is recorded there is no way to 
 
 ## Mining
 
+Mining is the process of assembling blocks of blockchain transactions onto the blockachain ledger in exchange for currency/stake.
+
 ## Mining Pool
 
 ## Decentralised Architecture
