@@ -26,6 +26,8 @@
 
 ## Mining
 
+## Mining Pool
+
 ## Decentralised Architecture
 
 ## Distributed Architecture
