@@ -22,4 +22,4 @@ Our method will be exploratory - making sense of the technology - getting in and
 
 [Contribute a diagram of the Blockchain or a blockchain project](/diagramblockchain.md)
 
-[Possible/pontificated use cases](a collection of ideas on how we might use blockchain architecture)
+[Possible/pontificated use cases](/usecases.md)
