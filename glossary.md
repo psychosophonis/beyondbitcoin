@@ -9,6 +9,8 @@ A contract or program that runs on a blockchain (see above) to allow the exchang
 
 ## Bitcoin Cash.
 
+A 
+
 ## Cryptocurrency
 
 ## Currency
@@ -17,7 +19,7 @@ A contract or program that runs on a blockchain (see above) to allow the exchang
 
 ## Ethereum
 
-## Fungibile/Fungibility
+## Fungible/Fungibility
 
 ## Ledger
 
