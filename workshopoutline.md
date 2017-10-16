@@ -11,8 +11,8 @@
 
 ## Week Two:
 
-- New docs:
- - On Slack, there is a new channel called "uses" ... any new use of blockchain technology discovered, please place here
+* New docs:
+ * On Slack, there is a new channel called "uses" ... any new use of blockchain technology discovered, please place here
  - Fully functional prototype concept: a red LED sitting on a Rasperri Pi lights when someone transfers $1 worth of Ethere to a specified account (key?)
 - Set up Wallet
  - Purchase Ether/Bitcoin
