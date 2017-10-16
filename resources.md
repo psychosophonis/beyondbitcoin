@@ -20,13 +20,17 @@ A fascinating collection of all Satoshi Nakamoto's correspondance on the cryptog
 
 The original technical 'how to' with the first chapters inlcuding good general explainers. (on Github - free)
 
-###
+## Web Resources
 
 Great youtube video explaining blockchain https://youtu.be/baJYhYsHkLM
 
 - [Web page explaining the hashing process](https://bitsonblocks.net/2015/09/21/a-gentle-introduction-to-bitcoin-mining/)
 
 - [The clearest explanation I have found of how the nonce/hash proof of work operates](https://en.bitcoin.it/wiki/Nonce)
+
+- [A useful realtime site for watching the speed (block speed_ of the ethereum blockchain] https://ethstats.net 
+
+-  [Blockchair is a blockchain search and analytics engine -including Block Speed](https://blockchair.com/bitcoin/blocks)
 
 
 ## Technical Resources/Tutorials
