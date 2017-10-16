@@ -37,9 +37,9 @@ Great youtube video explaining blockchain https://youtu.be/baJYhYsHkLM
 
 - [Captian Drakins very good animated explanations of Bitcoin/Blockchain terms (https://steemit.com/bitcoin/@aaronkoenig/captain-drakins-explains-hashing)
 
-- [ethereum.org](ethereum.org)
+- [ethereum.org -- The best source for basic starts in Ethereum matters - Solidity, Geth, Ethereum Wallet etc](https://ethereum.org)
 
-The best source for basic starts in Ethereum matters - Solidity, Geth, Ethereum Wallet etc. etc.
+
 
 
 
