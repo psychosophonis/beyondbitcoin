@@ -9,6 +9,11 @@
 - Establish a Glossary and develop a Diagram of the Architecture.
 - Document and discuss use cases.
 
+1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
+
 ## Week Two:
 
 * New docs:
