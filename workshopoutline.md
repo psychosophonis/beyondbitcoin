@@ -19,6 +19,10 @@
     * Test real world transaction
     * Test IOT devices capability to connect / integrate with blockchain
     * Confirm that transaction can securely cause an electronic device / IOT activation
+  * Research Required for fully functional prototype
+    * Can Ethereum node sit on Raspberry Pi?
+    * Raspberry Pi connected to network
+    * Raspberry Pi triggeting LED light (shield needed?)
 * Set up Wallet
   * Purchase Ether/Bitcoin
   * Send Ether / Bitcoin between wallets
