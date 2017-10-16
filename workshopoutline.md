@@ -21,6 +21,7 @@
     * Confirm that transaction can securely cause an electronic device / IOT activation
   * Research Required for fully functional prototype
     * Can Ethereum node sit on Raspberry Pi? (what is a 'full node' and why would it be required?)
+      * See here: https://pgaleone.eu/raspberry/ethereum/archlinux/2017/09/06/ethereum-node-raspberri-pi-3/
     * Raspberry Pi connected to network
     * Raspberry Pi triggeting LED light (shield needed?)
 * Set up Wallet
