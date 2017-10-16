@@ -11,8 +11,22 @@
 
 ## Week Two:
 
-- Create a token.
-- Mine, Distribute and Exchange our own Coins.
+- New docs:
+ - On Slack, there is a new channel called "uses" ... any new use of blockchain technology discovered, please place here
+ - Fully functional prototype concept: a red LED sitting on a Rasperri Pi lights when someone transfers $1 worth of Ethere to a specified account (key?)
+- Set up Wallet
+ - Purchase Ether/Bitcoin
+ - Send Ether / Bitcoin between wallets
+- Contract languages. What are they? and how are they different?
+ - Solidity
+ - Serpent
+ - Mutan
+ - LLL
+- Run through full dApp (Ethereum) 'Hello World' tutorial. Tutorials to chose from are:
+ - Voting app in Ethereum: https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2
+ - https://forum.ethereum.org/discussion/1634/tutorial-1-your-first-contract
+ - dApp for beginners: https://dappsforbeginners.wordpress.com/tutorials/setting-up-your-development-environment/
+
 
 ## Week Three:
 
