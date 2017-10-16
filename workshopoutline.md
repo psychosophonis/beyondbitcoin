@@ -11,21 +11,26 @@
 
 ## Week Two:
 
-* New docs:
+* To discuss:
+  * Suggested structure of tonight's class
+  * Technical functionality of block chain / hashing / nonce / work (from last week)
   * On Slack, there is a new channel called "uses" ... any new use of blockchain technology discovered, please place here
-  * Fully functional prototype concept: a red LED sitting on a Rasperri Pi lights when someone transfers $1 worth of Ethere to a specified account (key?)
-- Set up Wallet
- - Purchase Ether/Bitcoin
- - Send Ether / Bitcoin between wallets
-- Contract languages. What are they? and how are they different?
- - Solidity
- - Serpent
- - Mutan
- - LLL
-- Run through full dApp (Ethereum) 'Hello World' tutorial. Tutorials to chose from are:
- - Voting app in Ethereum: https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2
- - https://forum.ethereum.org/discussion/1634/tutorial-1-your-first-contract
- - dApp for beginners: https://dappsforbeginners.wordpress.com/tutorials/setting-up-your-development-environment/
+  * Fully functional prototype concept: a red LED sitting on a Raspberry Pi lights when someone transfers $1 worth of Ethere to a specified account (key?). (Where do we get the Raspberry Pi's from?) Why?
+    * Test real world transaction
+    * Test IOT devices capability to connect / integrate with blockchain
+    * Confirm that transaction can securely cause an electronic device / IOT activation
+* Set up Wallet
+  * Purchase Ether/Bitcoin
+  * Send Ether / Bitcoin between wallets
+* Contract languages. What are they? and how are they different?
+  * Solidity
+  * Serpent
+  * Mutan
+  * LLL
+* Run through full dApp (Ethereum) 'Hello World' tutorial. Tutorials to chose from are:
+  * dApp for beginners: https://dappsforbeginners.wordpress.com/tutorials/setting-up-your-development-environment/
+  * Voting app in Ethereum: https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2
+  * https://forum.ethereum.org/discussion/1634/tutorial-1-your-first-contract
 
 
 ## Week Three:
