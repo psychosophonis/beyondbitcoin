@@ -47,6 +47,7 @@ To start:
    * Creating Account (in Rinkoby)
    * Getting test Ether
 2) Test transfering Ether from one account to another
+   * eth.sendTransaction({from: '0x036a03fc47084741f83938296a1c8ef67f6e34fa', to: '0xa8ade7feab1ece71446bed25fa0cf6745c19c3d5', value: web3.toWei(1, "ether")})
 3) Run Hello World example https://github.com/ethereum/go-ethereum/wiki/Contract-Tutorial
    * Install Solidity compiler
    * Run 'Hello World' contract
