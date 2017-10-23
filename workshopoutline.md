@@ -40,8 +40,18 @@
 
 ## Week Three:
 
-- Create a Contract: A voting system for people with our token to vote on a single Polygon Door issue.
-- Week Four:
+This week's goal is to run the Hello World contract that runs on Ethereum.
+
+To start:
+1) Installing and setting up CLI (or stay with Ethereum Wallet) https://gist.github.com/cryptogoth/10a98e8078cfd69f7ca892ddbdcf26bc
+   * Creating Account (in Rinkoby)
+   * Getting test Ether
+2) Test transfering Ether from one account to another
+3) Run Hello World example https://github.com/ethereum/go-ethereum/wiki/Contract-Tutorial
+   * Install Solidity compiler
+   * Run 'Hello World' contract
+
+## Week Four:
 - Create a simple dApp (distributed application) - a front end for the voting contract.
 - Discussion: Revisiting use cases - How can we use smart contracts to create new forms of organisation?
 - Can we use a contract to propose and vote on a dApp to develop for the rest of term?
