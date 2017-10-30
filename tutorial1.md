@@ -17,10 +17,11 @@
 
 - win notes:
 
-install choclatey
-install git, mingw, golang
-map paths
-compile geth
+- install choclatey
+- install git, mingw, golang
+- map paths
+- compile geth
+
 
 
 
