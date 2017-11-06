@@ -59,8 +59,37 @@ To start:
 
 ## Week Five:
 
-- Choose and specify a dApp we will work to develop.
-- Planning dApp development.
+NEXT POLYGONDOOR BITCOIN WORKSHOP
+
+- Videos of Vitalik (on Ethereal channel)
+
+- Go to https://www.stateofthedapps.com/ and try and understand one of those apps
+	- Show how many are a ‘game’ (have a quick review of them)
+	- Show how one can drill in and see transactions on etherscan
+
+- Show the reddit page: https://www.reddit.com/r/ethereum/
+
+- Discuss the MetaMask / Infuria concept (of accessing Ethereal without a local node)
+
+- Say that I used these: https://github.com/fivedogit/solidity-baby-steps/tree/master/contracts/
+
+- Can only send to contract … cannot send between accounts
+	•	Sender -> Contract
+	•	Contract -> Receiver (using money it received).
+
+- Previous question about the below code going wrong …. now understand that each transaction is only to contract account:
+        // Subtract from the sender
+        balanceOf[_from] -= _value;
+        // Add the same to the recipient
+        balanceOf[_to] += _value;
+
+- You can have as many instances of a contract as you like … each one will have a different address.
+
+- https://ethereum.github.io/browser-solidity/ is very useful
+
+- Go over the contract I’ve written
+
+
 
 ## Week Six:
 
