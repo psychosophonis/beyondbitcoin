@@ -61,7 +61,7 @@ To start:
 
 NEXT POLYGONDOOR BITCOIN WORKSHOP
 
-- Videos of Vitalik (on Ethereal channel)
+- Videos of Vitalik (on Ethereal channel) https://www.youtube.com/watch?v=W4S6WrTnepk
 
 - Go to https://www.stateofthedapps.com/ and try and understand one of those apps
 	- Show how many are a ‘game’ (have a quick review of them)
