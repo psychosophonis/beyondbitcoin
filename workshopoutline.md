@@ -59,19 +59,17 @@ To start:
 
 ## Week Five:
 
-NEXT POLYGONDOOR BITCOIN WORKSHOP
-
 - Videos of Vitalik (on Ethereal channel) https://www.youtube.com/watch?v=W4S6WrTnepk
 
-- Go to https://www.stateofthedapps.com/ and try and understand one of those apps
+- Go to https://www.stateofthedapps.com/ and explore apps
 	- Show how many are a ‘game’ (have a quick review of them)
 	- Show how one can drill in and see transactions on etherscan
 
 - Show the reddit page: https://www.reddit.com/r/ethereum/
 
-- Discuss the MetaMask / Infuria concept (of accessing Ethereal without a local node)
+- Discuss the MetaMask / Infuria concept (of accessing Ethereum without a local node)
 
-- Say that I used these: https://github.com/fivedogit/solidity-baby-steps/tree/master/contracts/
+- Useful basic contracts: https://github.com/fivedogit/solidity-baby-steps/tree/master/contracts/
 
 - Can only send to contract … cannot send between accounts
 	•	Sender -> Contract
