@@ -89,6 +89,8 @@ NEXT POLYGONDOOR BITCOIN WORKSHOP
 
 - Go over the contract I’ve written
 
+- Chart of Ethereum structure: https://drive.google.com/file/d/0ByR5ajtUjzNQeGJ6ajkxWGU5ckE/view?usp=sharing
+
 
 
 ## Week Six:
