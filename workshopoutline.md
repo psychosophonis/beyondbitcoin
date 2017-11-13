@@ -93,7 +93,23 @@ To start:
 
 ## Week Six:
 
-- Backend dApp Dev and Front End Wireframing/Specification.
+Our understanding of the Ethereum platform starts in ernest this week.
+
+- We make sure everyone has a synced Rinkeby node
+- We look at the quick-development environment https://remix.ethereum.org/, and go through the steps necessary to know how to:
+  - write
+  - compile
+  - deploy
+  - and test a dApp 
+- We go through the examples written on https://github.com/edeleflie/SollidityStepByStep. This will allow us to understand:
+  - What a minimum-code contract looks like
+  - How transferring Ether works
+  - How Tokens work
+  - How to best write code for Smart Contracts 
+- We then have a quick look at the 'gambling' contract that can be accessed here: https://github.com/edeleflie/SollidityStepByStep/blob/master/BouncingWishingWell.sol
+- We call that contract using Geth, following the instructions written here: https://github.com/edeleflie/SollidityStepByStep/blob/master/BouncingWishingWell_notes.md
+- We then have a look at how to call that contract using web3.js code that is embedded in an HTML GUI
+
 
 ## Week Seven:
 
