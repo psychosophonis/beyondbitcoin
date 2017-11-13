@@ -109,6 +109,9 @@ Our understanding of the Ethereum platform starts in ernest this week.
 - We then have a quick look at the 'gambling' contract that can be accessed here: https://github.com/edeleflie/SollidityStepByStep/blob/master/BouncingWishingWell.sol
 - We call that contract using Geth, following the instructions written here: https://github.com/edeleflie/SollidityStepByStep/blob/master/BouncingWishingWell_notes.md
 - We then have a look at how to call that contract using web3.js code that is embedded in an HTML GUI
+https://github.com/psychosophonis/truffledapps
+- And a more advanced example still needing a lot of work.
+https://github.com/psychosophonis/truffledapps/blob/master/wishingWellTutorial.md
 
 
 ## Week Seven:
