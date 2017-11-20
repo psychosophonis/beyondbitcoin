@@ -121,10 +121,13 @@ https://github.com/psychosophonis/truffledapps/blob/master/wishingWellTutorial.m
 - Learn to use the truffle development environment to develop a front end for a contract.
 - Learn to return and send values between html, javascript, and contract.
 - Use the web3/ethereum Javascript API to return values from the blockchain. (https://github.com/ethereum/wiki/wiki/JavaScript-API)[Javascript API]
-
 - We will use these files all of which are heavily commented. (https://github.com/psychosophonis/truffledapps) []
+- Discussion: Making things happen? Contracts with non-human objects – can we turn on a led using the blockchain..and question why we would.
 
-- Discussion: Making things happen? Contracts with non-human objects – can we turn on an led using the blockchain..and question why we would.
+- Addendum: Etienne's https://github.com/edeleflie/SollidityStepByStep tutorial has been modified for an ArtBank idea. It also includes multiple new sample contracts including
+  - Contracts spawning new contracts
+  - Contracts calling functions 
+  - Common security challenges
 
 ## Week Eight:
 
