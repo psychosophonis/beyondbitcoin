@@ -116,7 +116,15 @@ https://github.com/psychosophonis/truffledapps/blob/master/wishingWellTutorial.m
 
 ## Week Seven:
 
-- Continued dApp Dev.
+- Today you should familiarise yourself with the truffle project structure;
+- Set up a truffle project.
+- Compile and migrate a contract to the rinkeby test net.
+- Learn to use the truffle development environment to develop a front end for a contract.
+- Learn to return and send values between html, javascript, and contract.
+- Use the web3/ethereum Javascript API to return values from the blockchain. (https://github.com/ethereum/wiki/wiki/JavaScript-API)[Javascript API]
+
+- We will use these files all of which are heavily commented. (https://github.com/psychosophonis/truffledapps) []
+
 - Discussion: Making things happen? Contracts with non-human objects – can we turn on an led using the blockchain..and question why we would.
 
 ## Week Eight:
