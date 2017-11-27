@@ -135,6 +135,8 @@ https://github.com/psychosophonis/truffledapps/blob/master/wishingWellTutorial.m
 - Switching on a LED using a smart contract.
 - Continued dApp Dev.
 
+[Simplest Metamask implementation for Bouncing Wishing Well Contract](https://github.com/psychosophonis/wishwellweb)
+
 ## Week Nine:
 
 - Finalise Dapp Dev and sum up what we’ve learnt about the Blockchain.
